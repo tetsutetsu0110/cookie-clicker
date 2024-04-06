@@ -1,0 +1,12 @@
+{
+	"Name": "Auto Sacrifice: Fully AFK Garden",
+	"ID": "autosacrifice",
+	"Author": "9025",
+	"Description": "Automates the entire process of finding mutations and eventually sacrificing the garden.",
+	"ModVersion": 1.55,
+	"GameVersion": 2.048,
+	"Date": "30/08/2022",
+	"Dependencies": [],
+	"Disabled": 1,
+    "AllowSteamAchievs": 1
+}
