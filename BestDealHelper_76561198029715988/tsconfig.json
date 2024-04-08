@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "target": "es2017",
+        "outDir": "./dist",
+        "allowJs": true,
+        "checkJs": true,
+        "downlevelIteration": true
+    },
+    "exclude": [
+        "node_modules",
+        "**/node_modules/*",
+        "dist"
+    ]
+}
