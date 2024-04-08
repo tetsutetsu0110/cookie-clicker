@@ -1,0 +1,12 @@
+{
+	"Name": "指数表示10桁化",
+	"ID": "10digit",
+	"Author": "micachi",
+	"Description": "短すぎる指数表記を10桁に増加させます。",
+	"ModVersion": 1,
+	"GameVersion": 2.048,
+	"Date": "04/06/2022",
+	"Dependencies": [],
+	"Disabled": 1,
+	"AllowSteamAchievs":1
+}
