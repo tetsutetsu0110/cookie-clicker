@@ -1,0 +1,14 @@
+{
+ "Name": "Offline Lumps",
+ "ID": "offlineLumps",
+ "Author": "Rumo",
+ "Description": "Persists the best sugar lump you could have gotten if you had checked the lump daily.",
+ "ModVersion": 1.1,
+ "GameVersion": 2.052,
+ "Date": "05/09/2023",
+ "Dependencies": [
+  "CCSE"
+ ],
+ "AllowSteamAchievs": 1,
+ "Workshop": "3031306856"
+}
