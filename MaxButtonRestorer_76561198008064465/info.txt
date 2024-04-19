@@ -1,0 +1,10 @@
+{
+	"Name": "Max Button Restorer",
+	"ID": "MaxButtonRestorer",
+	"Author": "Rartrin",
+	"Description": "Restores the Max button and functionality. Also removes the ability to bulk buy when you don't have enough cookies.",
+	"ModVersion": 1,
+	"GameVersion": 2.04,
+	"Date": "02/09/2021",
+	"AllowSteamAchievs":1
+}
